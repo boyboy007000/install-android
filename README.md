@@ -23,3 +23,4 @@ cd <Genymotion installer path>
 ./genymotion-<version>_<arch>.bin -d <Genymotion installer path>
 cd <Genymotion installer path>
 ./genymotion
+ref: https://docs.genymotion.com/latest/Content/01_Get_Started/Installation.htm
